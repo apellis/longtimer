@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Longtimer</string>
+    <string name="placeholder_time">00:00:00</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="new_segment_name">New segment name</string>
+    <string name="new_segment_length_secs">Duration (mins)</string>
+    <string name="add_segment">Add segment</string>
+    <string name="usage">A bell will sound at the start and end of the overall session as well as at segment boundaries.</string>
+    <string name="segments_header">Segments</string>
+    <string name="current_segment">Now: %s</string>
+    <string name="not_running">(not running)</string>
+    <string name="session_complete">Session complete!</string>
+    <string name="segment_string">%s (%s)</string>
+    <string name="time_travel">Time Travel</string>
+    <string name="stop_text">Stop</string>
+</resources>
